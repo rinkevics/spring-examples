@@ -1,4 +1,4 @@
-package org.kaspars;
+package lv.kingfisher;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
