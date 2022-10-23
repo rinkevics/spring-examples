@@ -17,7 +17,6 @@
             <param-name>contextConfigLocation</param-name>
             <param-value>
                 lv.kingfisher.WebConfig
-                lv.kingfisher.db.JPAConfig
             </param-value>
         </init-param>
     </servlet>
